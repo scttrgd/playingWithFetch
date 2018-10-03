@@ -1,4 +1,3 @@
-function 
 function test(){ 
 	
 	fetch('https://jsonplaceholder.typicode.com/posts', {
