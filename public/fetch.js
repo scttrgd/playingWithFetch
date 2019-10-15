@@ -1,6 +1,6 @@
 function test(){ 
 	
-	fetch('https://jsonplaceholder.typicode.com/posts', {
+	fetch('https://jsonbox.io/helloworldoddiwrthgwasgarwrdda', {
     method: 'POST',
     body: JSON.stringify({
       title: 'foo',
